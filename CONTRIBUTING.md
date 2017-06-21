@@ -20,3 +20,5 @@ Before making a pull request, please make sure of the following:
 
 Thank you for your suggestions! If you think there is anything to improve with the guidelines, please contact me at <tuvtran97@gmail.com>
 There should be some conflict
+
+more conflict
